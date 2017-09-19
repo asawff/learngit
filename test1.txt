@@ -1,3 +1,3 @@
 used for learning git.
-second
-third
+second.
+third.
